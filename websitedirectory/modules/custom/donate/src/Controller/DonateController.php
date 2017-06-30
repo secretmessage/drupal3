@@ -13,6 +13,7 @@ class DonateController extends ControllerBase {
    */
   public function content() {
     return array(
+      '#title' => 'Can I override the module title?',
       '#type' => 'markup',
       '#markup' => 'Please <a href="https://www.eff.org/helpout">donate</a> in whatever way you can. Thank you!</a>',
     );
