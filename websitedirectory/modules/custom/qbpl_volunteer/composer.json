@@ -1,0 +1,14 @@
+{
+  "name": "drupal/qbpl_volunteer",
+  "type": "drupal-module",
+  "description": "Volunteer with Queens Library",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/qbpl_volunteer",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/qbpl_volunteer",
+    "source": "http://cgit.drupalcode.org/qbpl_volunteer"
+  },
+  "require": { }
+}

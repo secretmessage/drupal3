@@ -1,0 +1,7 @@
+qbpl_volunteer.content:
+  path: '/volunteer'
+  defaults:
+    _controller: '\Drupal\qbpl_volunteer\Controller\VolunteerController::content'
+    _title: 'Volunteer today'
+  requirements:
+    _permission: 'access content'
