@@ -1,0 +1,13 @@
+name: kushaltheme
+type: theme
+description: Kushal theme number one
+package: Other
+core: 8.x
+libraries:
+  - kushaltheme/global-styling
+
+base theme: bartik
+
+regions:
+  content: Content
+  search: search
